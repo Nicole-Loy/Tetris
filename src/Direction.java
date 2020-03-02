@@ -5,7 +5,7 @@ public enum Direction {
     RIGHT(1, 0),
     UP(0, -1);
 
-    int x, y;
+    int x, y;// ВВОЖУ ЦЕЛЫЕ ЧИСЛА ИНТ ОБОЗНАЧАЮ ПЕРЕМЕННЫЕ Х И У
 
     Direction(int x, int y) {
         this.x = x;
